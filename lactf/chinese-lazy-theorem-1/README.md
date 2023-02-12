@@ -1,4 +1,4 @@
-##chinese-lazy-theorem-1
+## chinese-lazy-theorem-1
 
 since n=pq > target
 
