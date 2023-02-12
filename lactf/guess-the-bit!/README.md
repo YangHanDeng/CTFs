@@ -1,4 +1,4 @@
-##guess-the-bit!
+## guess-the-bit!
 
 According to `chall.py` , if bit=0, it will send c^2, and if bit=1, it will send 6*c^2
 
