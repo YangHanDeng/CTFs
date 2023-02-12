@@ -1,4 +1,4 @@
-##misc/hike to where?
+## misc/hike to where?
 (I felt guilty when I was working on this problem)
 1. From the picture, we can see that this guy is from `acm at ucla`
 2. Google it, I checked the official website but it doesn't work, then I checked the instagram. In `takeovers 2022`, I saw this guy called Carey
