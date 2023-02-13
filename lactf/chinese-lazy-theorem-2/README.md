@@ -1,4 +1,5 @@
 ## chinese-lazy-theorem-2
+0. I read the proof of Chinese remainder theorm from this webpage: [https://www.math.cmu.edu/~mradclif/teaching/127S19/Notes/ChineseRemainderTheorem.pdf](https://www.math.cmu.edu/~mradclif/teaching/127S19/Notes/ChineseRemainderTheorem.pdf), the proof is clear and concise.
 
 1. chinese remainder thm. for this question
 
