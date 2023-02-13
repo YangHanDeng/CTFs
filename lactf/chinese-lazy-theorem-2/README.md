@@ -20,6 +20,6 @@
 
 2. after we got x0, we can use 
 
-    $$ x0+iN for i=0~30$$ 
+    $$ x0+iN for i=0~30 $$ 
 
     to guess the answer
