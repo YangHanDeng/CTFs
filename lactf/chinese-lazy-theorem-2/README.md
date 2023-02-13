@@ -18,8 +18,4 @@
 
     $$ x0=(y1m1a1+y2m2a2)\%N $$
 
-2. after we got x0, we can use 
-
-    ` x0 + iN for i=0~30 `
-
-    to guess the answer
+2. after we got x0, we can use ` x0 + iN for i=0~30 ` to guess the answer
