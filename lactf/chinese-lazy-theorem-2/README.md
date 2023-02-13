@@ -1,17 +1,25 @@
 ## chinese-lazy-theorem-2
 
-$$ x \equiv a1 \mod p $$
+1. chinese remainder thm. for this question
 
-$$ x \equiv a2 \mod q $$
+    $$ x \equiv a1 \mod p $$
 
-$$ N=p \times q $$
+    $$ x \equiv a2 \mod q $$
 
-$$ m1=N\div p=q $$
+    $$ N=p \times q $$
 
-$$ m2=N\div q=p $$
+    $$ m1=N\div p=q $$
 
-$$ y1=modinv(m1\mod p, p) $$
+    $$ m2=N\div q=p $$
 
-$$ y2=modinv(m2\mod q, q) $$
+    $$ y1=modinv(m1\mod p, p) $$
 
-$$ x0=(y1m1a1+y2m2a2)\%N $$
+    $$ y2=modinv(m2\mod q, q) $$
+
+    $$ x0=(y1m1a1+y2m2a2)\%N $$
+
+2. after we got x0, we can use 
+
+    $$ x0+iN for i=0~30$$ 
+
+    to guess the answer
