@@ -5,4 +5,4 @@
 3. Then I googled ucla carey, I found his name `Carey Nachenberg`
 4. I checked his personal website, Instagram, Linkedin and Facebook but nothing helped. Then I focused on another point in the picture. It shows that the picture is from an event.
 5. I googled `Carey Nachenberg event` then I saw this `https://www.tickettailor.com/events/peaksprofessorsatucla/792649`, it shows that they went to Skull Rock
-6. I entered `lactf{skull_rock}`, then it worked!
+6. I typed `lactf{skull_rock}`, then it worked!
