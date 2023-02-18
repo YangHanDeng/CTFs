@@ -13,7 +13,7 @@
     ```
     gdb ./bot
     b main 
-    c
+    r < junk.txt
     info frame
     ```
     the result is ...706161616f61, be aware that linux is little endian
